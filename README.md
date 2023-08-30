@@ -1,5 +1,7 @@
 # password-torch-effects
 
+Live link: https://rahul360prasad.github.io/password-torch-effects/password-torch-effects.html
+
 ![Screenshot (10)](https://github.com/rahul360prasad/password-torch-effects/assets/65440053/f1a253eb-bff7-4fb3-a41a-3937e8ef2e1d)
 ![Screenshot (11)](https://github.com/rahul360prasad/password-torch-effects/assets/65440053/c0509ca3-28df-4c61-9e5b-40601585abef)
 ![Screenshot (12)](https://github.com/rahul360prasad/password-torch-effects/assets/65440053/6c10e8f1-fdb7-4b9c-ad65-908a6ce690c9)
